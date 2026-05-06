@@ -17,4 +17,6 @@ Features:
 
 🚀 Quick access to Speedtest.net
 
+**What is new in Version 2.4: Added a ping graph and a slider for setting the ping interval.**
+
 The .zip Contains the file PingMonitor.exe. No administrator rights required.
