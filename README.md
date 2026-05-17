@@ -1,5 +1,15 @@
-Ping-Logger-Monitor a lightweight network monitoring tool - 
-Features:
+# 🌐 Ping Logger Monitor
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
+![UI](https://img.shields.io/badge/UI-WPF-darkgreen)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-Free%20to%20use-orange)
+
+A modern real-time network latency monitor built with **PowerShell + WPF**.
+
+The application allows users to continuously monitor ping response times for predefined or custom targets, visualize latency changes in real time, and optionally generate a persistent ping log file.
+
 
 🔘 One-click ping for predefined targets (Google, Yahoo, Bing)
 
@@ -12,8 +22,6 @@ Features:
 🎨 Color-coded status (green,yellow,red)
 
 💾 Optional logging to file
-
-🛑 Start / Stop control
 
 🚀 Quick access to Speedtest.net
 
